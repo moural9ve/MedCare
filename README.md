@@ -117,4 +117,12 @@ Funcionalidades disponíveis:
 
 * Validação avançada de dados
 * Relatórios em PDF
-* Autenticaç
+* Autenticação de usuários
+* Interface mais moderna
+* Histórico de consultas por paciente
+
+---
+
+## 🧑‍💻 Autor
+
+Projeto desenvolvido para fins acadêmicos, com foco no aprendizado de **Java**, **Swing**, **MVC** e **DAO**.
